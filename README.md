@@ -9,6 +9,7 @@ The project shows how Angular (6) can combines with following technology:
   * Picked up "Sticky footer with fixed navbar" as an example for the home page
 * Prettier: Opinionated Code Formatter
 * Firebase
+* VS Code: Contain .editorconfig
 
 ## Used as a project template
 
@@ -38,6 +39,7 @@ If you use the project as a template to create a new project rather than us Angu
 * Firebase:
   * If you are not using Firebase, you can simply remove firebase.json and .firebaserc
   * If you are using Firebase, you just need to open .firebaserc and update Firebase project name used
+* VS Code: If you are using other code editing tool, you can remove .editorconfig
 
 ## Development
 
