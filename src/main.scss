@@ -1,0 +1,12 @@
+// Core variables (and others i.e. mixins)
+@import "themes/theme-variables";
+//@import "mixins.scss";
+
+// 3rd party libraries
+
+// Include all of Bootstrap
+// See more Bootstrap options in https://getbootstrap.com/docs/4.0/getting-started/theming/
+@import "~bootstrap/scss/bootstrap";
+
+// Theme customization
+@import "themes/theme";

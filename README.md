@@ -6,7 +6,8 @@ I used Angular CLI a lot to create a new project.  Although Angular CLI is great
 The project shows how Angular (6) can combines with following technology:
 * SCSS: Use SCSS rather than css
 * Bootstrap: Use Bootstrap rather than create styles from scratch
-  * Picked up "Sticky footer with fixed navbar" as an example for the home page
+  * Picked up "Navbar example" as an example for the home page
+  * Also used ng-bootstrap
 * Prettier: Opinionated Code Formatter
 * Firebase
 * VS Code: Contain .editorconfig
