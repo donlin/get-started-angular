@@ -40,6 +40,7 @@ If you use the project as a template to create a new project rather than us Angu
   * If you are not using Firebase, you can simply remove firebase.json and .firebaserc
   * If you are using Firebase, you just need to open .firebaserc and update Firebase project name used
 * VS Code: If you are using other code editing tool, you can remove .editorconfig
+* Bootstrap: If you need JS of Bootstrap, you may install jQuery `npm install jquery@1.9.1 --save`
 
 ## Development
 
