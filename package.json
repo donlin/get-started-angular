@@ -11,6 +11,17 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donlin/get-started-angular.git"
+  },
+  "keywords": [
+    "typescript",
+    "angular",
+    "node"
+  ],
+  "author": "Don Lin",
+  "license": "MIT",
   "dependencies": {
     "@angular/animations": "^6.1.0",
     "@angular/common": "^6.1.0",
