@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "scripts": {
     "format": "prettier --write \"src/**/*.ts\"",
-    "start": "ng serve --open --poll=2000 --port 3000",
+    "start": "ng serve --open --port 3000",
     "build": "ng build",
     "build:prod": "ng build --prod",
-    "test": "ng test --poll=2000",
+    "test": "ng test",
     "test:cov": "ng test --watch=false --code-coverage --source-map",
     "lint": "ng lint",
     "e2e": "ng e2e"
